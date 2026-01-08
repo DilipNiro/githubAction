@@ -21,4 +21,3 @@ jobs:
       # 4. Lancer les tests
       - name: Run tests
         run: pytest test_calculs.py
-
